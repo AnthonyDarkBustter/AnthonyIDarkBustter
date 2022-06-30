@@ -1,4 +1,4 @@
-## <div align = "center"> Hello guys, my name is Anthony and I am programmer & Analytics Finance ! </div> 
+## <div align = "center"> Hello guys, my name is Anthony and I am Programmer & Analytics Finance ! </div> 
 <div align="center">
   <a href="https://github.com/AnthonyIDarkBustter">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnthonyIDarkBustter&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
