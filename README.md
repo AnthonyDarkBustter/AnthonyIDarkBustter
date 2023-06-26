@@ -1,7 +1,7 @@
 ## <div align = "center"> Hello guys, my name is Anthony and I am Programmer & Analytics Finance ! </div> 
 <div align="center">
-  <a href="https://github.com/DarkBustter">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DarkBustter&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <a href="https://github.com/pereira3R">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pereira3R&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block" align= "center"><br>
