@@ -10,7 +10,8 @@
   <img align="center" alt="Anthony-CSS3" height="38" width="80" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Anthony-Python" height="38" width="100" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img align="center" alt="Anthony-Java" height="38" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-<img align="center" alt="Anthony-C++" height="38" width="80" src="https://img.shields.io/badge/-C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img align="center" alt="Anthony-C++" height="38" width="80" src="https://img.shields.io/badge/-C%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"> 
+  <img align="center" alt="Anthony-PHP" height="38" width="80" src="https://img.shields.io/badge/-PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white">
 </div>
   
   ##
