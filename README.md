@@ -1,4 +1,4 @@
-## <div align = "center"> Hello guys, my name is Anthony and I am Programmer ! </div> 
+## <div align = "center"> Hello guys my name is Anthony, welcome to my profile! </div> 
 
 ### Experience and Education
 - 🎓 Bachelor's in Computer Science from Universidade Federal de Mato Grosso (UFMT)
