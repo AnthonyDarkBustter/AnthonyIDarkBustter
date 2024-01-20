@@ -1,4 +1,9 @@
 ## <div align = "center"> Hello guys, my name is Anthony and I am Programmer ! </div> 
+
+### Experience and Education
+- 🎓 Bachelor's in Computer Science from Universidade Federal de Mato Grosso (UFMT)
+- 💼 Currently working as a Full Stack Developer at Instituto de Computação (IC - UFMT)
+  
 <div align="center">
   <a href="https://github.com/pereira3R">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pereira3R&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
