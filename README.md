@@ -3,6 +3,7 @@
 ### Experience and Education
 - 🎓 Bachelor's in Computer Science from Universidade Federal de Mato Grosso (UFMT)
 - 💼 Currently working as a Full Stack Developer at Instituto de Computação (IC - UFMT)
+---
   
 <div align="center">
   <a href="https://github.com/pereira3R">
