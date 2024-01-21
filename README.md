@@ -3,7 +3,8 @@
 ### Experience and Education
 - 🎓 Bachelor's in Computer Science from Universidade Federal de Mato Grosso (UFMT)
 - 💼 Currently working as a Full Stack Developer at Instituto de Computação (IC - UFMT)
-
+- 👨🏻‍💻 Project Director at Infocorp with a Bachelor's in Computer Science from UFMT
+  
 ##
   
 <div align="center">
